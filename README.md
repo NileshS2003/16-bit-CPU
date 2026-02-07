@@ -2,8 +2,8 @@
 
 Skills: Verilog HDL, Computer Architechture
 
-- I am Mehul Kumar Sahoo pursuing Electronics Engineering at IIT (BHU), Varanasi.
-- I have made a 16-bit CPU using Verilog HDL as a solution of the problem statement in event ICHIP of UDYAM'23.
+- I am Nilesh Sangle pursuing Electronics Engineering at IIT (BHU), Varanasi.
+- I have made a 16-bit CPU using Verilog HDL as a practice project
 - The verilog files along with testbench are attached in this repository.
 - The block diagram of design is as follows -
   
